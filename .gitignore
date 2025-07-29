@@ -1,0 +1,22 @@
+# Entorno virtual de Python
+venv/
+.env
+*.env
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Reportes y evidencias
+allure-results/
+allure-report/
+evidencia/
+*.png
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración de Pytest
+.pytest_cache/

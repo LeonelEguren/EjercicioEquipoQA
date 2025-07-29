@@ -6,9 +6,7 @@ Este repositorio contiene un conjunto de pruebas automatizadas usando Playwright
 **Instalación**
 Clonar el repositorio:
 
-
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
+git clone https://github.com/LeonelEguren/EjercicioEquipoQA.git
 
   **Crear un entorno virtual:**
 
